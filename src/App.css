@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+
+}
+.load {
+  text-align: center;
+  top: 80px;
+  position: relative;
+  font-size: 3em;
 }
 
 .App-logo {
